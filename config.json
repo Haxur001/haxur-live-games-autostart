@@ -1,0 +1,36 @@
+{
+  "tiktokUsername": "haxur001",
+  "questionTime": 30,
+  "saveFile": "scores.json",
+  "autoOpenOverlay": true,
+  "autoOpenAdmin": true,
+  "autoStartFirstQuestion": false,
+  "boss": {
+    "name": "HAXUR BOSS",
+    "baseHp": 4000,
+    "hpIncreasePerLevel": 1000,
+    "image": "images/bosses/haxur.png",
+    "wrongAnswerHeal": 25
+  },
+  "rewards": {
+    "correctAnswerPoints": 1,
+    "correctAnswerXp": 10,
+    "criticalPoints": 3,
+    "criticalXp": 30,
+    "bossKillPoints": 10,
+    "bossKillXp": 50,
+    "lootPoints": 5,
+    "lootXp": 40
+  },
+  "playerBoss": {
+    "enabled": true,
+    "minLevel": 10,
+    "baseHp": 4000,
+    "hpPerLevel": 250,
+    "rewardPoints": 25,
+    "rewardXp": 150
+  },
+  "viewerBoss": {
+    "enabled": true
+  }
+}

@@ -1,0 +1,115 @@
+#hudRoot {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    pointer-events: none;
+}
+
+#topHud {
+    position: absolute;
+    top: 22px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 940px;
+    height: 92px;
+    display: grid;
+    grid-template-columns: 1fr 1.1fr 1fr;
+    gap: 14px;
+}
+
+#brandBox,
+#gameStatusBox,
+#timerBox {
+    background: rgba(5, 8, 18, 0.88);
+    border: 2px solid rgba(0, 255, 255, 0.75);
+    border-radius: 20px;
+    box-shadow: 0 0 24px rgba(0, 255, 255, 0.55);
+    padding: 14px;
+    text-align: center;
+}
+
+#brandTitle,
+#gameName {
+    font-size: 24px;
+    font-weight: 900;
+    letter-spacing: 1px;
+    text-shadow: 0 0 14px cyan;
+}
+
+#brandSubTitle,
+#statusText,
+#roundText,
+#timerText {
+    margin-top: 7px;
+    font-size: 17px;
+    font-weight: 900;
+    color: #00ffff;
+}
+
+#teamScorePanel {
+    position: absolute;
+    top: 132px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    gap: 22px;
+}
+
+.teamCard {
+    width: 270px;
+    height: 105px;
+    border-radius: 22px;
+    background: rgba(5, 8, 18, 0.9);
+    text-align: center;
+    padding: 14px;
+}
+
+.teamCard.red {
+    border: 2px solid #ff3355;
+    box-shadow: 0 0 24px rgba(255, 51, 85, 0.75);
+}
+
+.teamCard.blue {
+    border: 2px solid #289cff;
+    box-shadow: 0 0 24px rgba(40, 156, 255, 0.75);
+}
+
+.teamLabel {
+    font-size: 20px;
+    font-weight: 900;
+}
+
+.teamScore {
+    margin-top: 8px;
+    font-size: 44px;
+    font-weight: 900;
+}
+
+#redScore {
+    color: #ff3355;
+    text-shadow: 0 0 15px #ff3355;
+}
+
+#blueScore {
+    color: #289cff;
+    text-shadow: 0 0 15px #289cff;
+}
+
+#bottomBar {
+    position: absolute;
+    left: 50%;
+    bottom: 28px;
+    transform: translateX(-50%);
+    display: flex;
+    gap: 14px;
+}
+
+#bottomBar div {
+    min-width: 210px;
+    padding: 12px 18px;
+    text-align: center;
+    border-radius: 16px;
+    background: rgba(5, 8, 18, 0.9);
+    border: 1px solid rgba(255, 255, 255, 0.22);
+    font-weight: 900;
+}

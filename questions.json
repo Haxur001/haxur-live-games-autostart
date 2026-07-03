@@ -1,0 +1,1080 @@
+[
+  {
+    "question": "Hány napos egy szökőév?",
+    "answers": {
+      "A": "364",
+      "B": "365",
+      "C": "366",
+      "D": "366 (szökőév)"
+    },
+    "correct": "D",
+    "difficulty": "gyenge"
+  },
+  {
+    "question": "Melyik állat nem emlős?",
+    "answers": {
+      "A": "Delfin",
+      "B": "Krokodil",
+      "C": "Elefánt",
+      "D": "Bálna"
+    },
+    "correct": "B",
+    "difficulty": "gyenge"
+  },
+  {
+    "question": "Mi a víz kémiai képlete?",
+    "answers": {
+      "A": "CO2",
+      "B": "H2O",
+      "C": "NaCl",
+      "D": "H2SO4"
+    },
+    "correct": "B",
+    "difficulty": "gyenge"
+  },
+  {
+    "question": "Ki írta a 'Toldi' című eposzt?",
+    "answers": {
+      "A": "Petőfi Sándor",
+      "B": "Arany János",
+      "C": "Ady Endre",
+      "D": "József Attila"
+    },
+    "correct": "B",
+    "difficulty": "gyenge"
+  },
+  {
+    "question": "Melyik bolygó van legközelebb a Naphoz?",
+    "answers": {
+      "A": "Merkúr",
+      "B": "Vénusz",
+      "C": "Föld",
+      "D": "Mars"
+    },
+    "correct": "A",
+    "difficulty": "gyenge"
+  },
+  {
+    "question": "Mi a leggyorsabb szárazföldi állat?",
+    "answers": {
+      "A": "Oroszlán",
+      "B": "Antilop",
+      "C": "Gepárd",
+      "D": "Nyúl"
+    },
+    "correct": "C",
+    "difficulty": "gyenge"
+  },
+  {
+    "question": "Melyik szín nem alapszín?",
+    "answers": {
+      "A": "Piros",
+      "B": "Kék",
+      "C": "Sárga",
+      "D": "Zöld"
+    },
+    "correct": "D",
+    "difficulty": "gyenge"
+  },
+  {
+    "question": "Hány csillag van az Európai Unió zászlaján?",
+    "answers": {
+      "A": "10",
+      "B": "11",
+      "C": "12",
+      "D": "13"
+    },
+    "correct": "C",
+    "difficulty": "gyenge"
+  },
+  {
+    "question": "Melyik ország pénzneme az euró?",
+    "answers": {
+      "A": "Svájc",
+      "B": "Németország",
+      "C": "Norvégia",
+      "D": "Egyesült Királyság"
+    },
+    "correct": "B",
+    "difficulty": "gyenge"
+  },
+  {
+    "question": "Mi a Föld légkörének leggyakoribb gáza?",
+    "answers": {
+      "A": "Oxigén",
+      "B": "Nitrogén",
+      "C": "Szén-dioxid",
+      "D": "Argon"
+    },
+    "correct": "B",
+    "difficulty": "gyenge"
+  },
+  {
+    "question": "Melyik a legkisebb kontinens?",
+    "answers": {
+      "A": "Európa",
+      "B": "Dél-Amerika",
+      "C": "Ausztrália",
+      "D": "Antarktisz"
+    },
+    "correct": "C",
+    "difficulty": "gyenge"
+  },
+  {
+    "question": "Hány fokos a derékszög?",
+    "answers": {
+      "A": "45°",
+      "B": "60°",
+      "C": "90°",
+      "D": "180°"
+    },
+    "correct": "C",
+    "difficulty": "gyenge"
+  },
+  {
+    "question": "Melyik folyó a leghosszabb Magyarországon?",
+    "answers": {
+      "A": "Tisza",
+      "B": "Duna",
+      "C": "Dráva",
+      "D": "Száva"
+    },
+    "correct": "B",
+    "difficulty": "gyenge"
+  },
+  {
+    "question": "Ki festette a Mona Lisát?",
+    "answers": {
+      "A": "Michelangelo",
+      "B": "Leonardo da Vinci",
+      "C": "Raffaello",
+      "D": "Donatello"
+    },
+    "correct": "B",
+    "difficulty": "gyenge"
+  },
+  {
+    "question": "Melyik évben volt a magyar honfoglalás?",
+    "answers": {
+      "A": "896",
+      "B": "907",
+      "C": "1000",
+      "D": "1241"
+    },
+    "correct": "A",
+    "difficulty": "gyenge"
+  },
+  {
+    "question": "Melyik hangszer nem fúvós?",
+    "answers": {
+      "A": "Fuvola",
+      "B": "Klarinét",
+      "C": "Trombita",
+      "D": "Hegedű"
+    },
+    "correct": "D",
+    "difficulty": "gyenge"
+  },
+  {
+    "question": "Mi a só képlete?",
+    "answers": {
+      "A": "H2O",
+      "B": "NaCl",
+      "C": "HCl",
+      "D": "NaOH"
+    },
+    "correct": "B",
+    "difficulty": "gyenge"
+  },
+  {
+    "question": "Melyik állat a leggyorsabb hal?",
+    "answers": {
+      "A": "Cápa",
+      "B": "Tonhal",
+      "C": "Vitorláshal",
+      "D": "Lazac"
+    },
+    "correct": "C",
+    "difficulty": "gyenge"
+  },
+  {
+    "question": "Hol található a Szabadság-szobor?",
+    "answers": {
+      "A": "Párizs",
+      "B": "New York",
+      "C": "London",
+      "D": "Róma"
+    },
+    "correct": "B",
+    "difficulty": "gyenge"
+  },
+  {
+    "question": "Melyik a legmagasabb hegy a Földön?",
+    "answers": {
+      "A": "K2",
+      "B": "Mount Everest",
+      "C": "Mont Blanc",
+      "D": "Kilimandzsáró"
+    },
+    "correct": "B",
+    "difficulty": "gyenge"
+  },
+  {
+    "question": "Hány bolygó van a Naprendszerben?",
+    "answers": {
+      "A": "7",
+      "B": "8",
+      "C": "9",
+      "D": "10"
+    },
+    "correct": "B",
+    "difficulty": "gyenge"
+  },
+  {
+    "question": "Mivel foglalkozik a biológia?",
+    "answers": {
+      "A": "Csillagokkal",
+      "B": "Élőlényekkel",
+      "C": "Kőzetekkel",
+      "D": "Nyelvekkel"
+    },
+    "correct": "B",
+    "difficulty": "gyenge"
+  },
+  {
+    "question": "Melyik országban van a Colosseum?",
+    "answers": {
+      "A": "Görögország",
+      "B": "Olaszország",
+      "C": "Törökország",
+      "D": "Spanyolország"
+    },
+    "correct": "B",
+    "difficulty": "gyenge"
+  },
+  {
+    "question": "Mi a leggyakoribb vércsoport a világon?",
+    "answers": {
+      "A": "0-s",
+      "B": "A-s",
+      "C": "B-s",
+      "D": "AB-s"
+    },
+    "correct": "A",
+    "difficulty": "gyenge"
+  },
+  {
+    "question": "Melyik magyar város a 'cigányzene fővárosa'?",
+    "answers": {
+      "A": "Pécs",
+      "B": "Budapest",
+      "C": "Debrecen",
+      "D": "Szeged"
+    },
+    "correct": "B",
+    "difficulty": "gyenge"
+  },
+  {
+    "question": "Melyik évszakban hullik a legtöbb levél?",
+    "answers": {
+      "A": "Tavasz",
+      "B": "Nyár",
+      "C": "Ősz",
+      "D": "Tél"
+    },
+    "correct": "C",
+    "difficulty": "gyenge"
+  },
+  {
+    "question": "Hány lábuk van a pókoknak?",
+    "answers": {
+      "A": "6",
+      "B": "8",
+      "C": "10",
+      "D": "12"
+    },
+    "correct": "B",
+    "difficulty": "gyenge"
+  },
+  {
+    "question": "Mi a tej színe?",
+    "answers": {
+      "A": "Átlátszó",
+      "B": "Zöldes",
+      "C": "Fehér",
+      "D": "Sárgás"
+    },
+    "correct": "C",
+    "difficulty": "gyenge"
+  },
+  {
+    "question": "Melyik uralkodó alapította az Árpád-házat?",
+    "answers": {
+      "A": "Szent István",
+      "B": "Árpád",
+      "C": "I. Endre",
+      "D": "III. Béla"
+    },
+    "correct": "B",
+    "difficulty": "kozepes"
+  },
+  {
+    "question": "Mi a szén-dioxid kémiai képlete?",
+    "answers": {
+      "A": "H2O",
+      "B": "CO2",
+      "C": "CH4",
+      "D": "C2H5OH"
+    },
+    "correct": "B",
+    "difficulty": "kozepes"
+  },
+  {
+    "question": "Melyik a legnagyobb sziget a Földön?",
+    "answers": {
+      "A": "Madagaszkár",
+      "B": "Új-Zéland",
+      "C": "Grönland",
+      "D": "Borneó"
+    },
+    "correct": "C",
+    "difficulty": "kozepes"
+  },
+  {
+    "question": "Ki volt az első magyar király?",
+    "answers": {
+      "A": "Géza fejedelem",
+      "B": "Szent István",
+      "C": "I. László",
+      "D": "Károly Róbert"
+    },
+    "correct": "B",
+    "difficulty": "kozepes"
+  },
+  {
+    "question": "Melyik városban ülésezik az Európai Parlament?",
+    "answers": {
+      "A": "Brüsszel",
+      "B": "Luxembourg",
+      "C": "Strasbourg",
+      "D": "Frankfurt"
+    },
+    "correct": "C",
+    "difficulty": "kozepes"
+  },
+  {
+    "question": "Milyen kémiai elem a Hg?",
+    "answers": {
+      "A": "Arany",
+      "B": "Ezüst",
+      "C": "Higany",
+      "D": "Ólom"
+    },
+    "correct": "C",
+    "difficulty": "kozepes"
+  },
+  {
+    "question": "Melyik volt az első magyar nyelvű könyv?",
+    "answers": {
+      "A": "A Biblia",
+      "B": "Smyczai-kódex",
+      "C": "Jordánszky-kódex",
+      "D": "Érdy-kódex"
+    },
+    "correct": "B",
+    "difficulty": "kozepes"
+  },
+  {
+    "question": "Melyik állat tudja legtovább visszatartani a lélegzetét?",
+    "answers": {
+      "A": "Cápa",
+      "B": "Bálnaróka",
+      "C": "Pingvin",
+      "D": "Fóka"
+    },
+    "correct": "B",
+    "difficulty": "kozepes"
+  },
+  {
+    "question": "Melyik a legkisebb ország a világon (terület alapján)?",
+    "answers": {
+      "A": "Monaco",
+      "B": "Nauru",
+      "C": "Vatikán",
+      "D": "San Marino"
+    },
+    "correct": "C",
+    "difficulty": "kozepes"
+  },
+  {
+    "question": "Ki írta a 'Hamlet' című drámát?",
+    "answers": {
+      "A": "Christopher Marlowe",
+      "B": "William Shakespeare",
+      "C": "Oscar Wilde",
+      "D": "Molière"
+    },
+    "correct": "B",
+    "difficulty": "kozepes"
+  },
+  {
+    "question": "Melyik folyó torkollik a Fekete-tengerbe?",
+    "answers": {
+      "A": "Rajna",
+      "B": "Duna",
+      "C": "Elba",
+      "D": "Visztula"
+    },
+    "correct": "B",
+    "difficulty": "kozepes"
+  },
+  {
+    "question": "Milyen színű a vér, ha oxigénnel telített?",
+    "answers": {
+      "A": "Sötétkék",
+      "B": "Világosvörös",
+      "C": "Zöldes",
+      "D": "Sárga"
+    },
+    "correct": "B",
+    "difficulty": "kozepes"
+  },
+  {
+    "question": "Melyik magyar királyt hívták 'Nagy'-nak?",
+    "answers": {
+      "A": "I. Béla",
+      "B": "II. András",
+      "C": "I. Lajos",
+      "D": "I. Mátyás"
+    },
+    "correct": "C",
+    "difficulty": "kozepes"
+  },
+  {
+    "question": "Mi a legnagyobb bolygó a Naprendszerben?",
+    "answers": {
+      "A": "Szaturnusz",
+      "B": "Jupiter",
+      "C": "Uránusz",
+      "D": "Neptunusz"
+    },
+    "correct": "B",
+    "difficulty": "kozepes"
+  },
+  {
+    "question": "Melyik évben robbant ki a második világháború?",
+    "answers": {
+      "A": "1939",
+      "B": "1940",
+      "C": "1941",
+      "D": "1938"
+    },
+    "correct": "A",
+    "difficulty": "kozepes"
+  },
+  {
+    "question": "Ki volt a magyar reformkor vezéralakja?",
+    "answers": {
+      "A": "Kossuth Lajos",
+      "B": "Széchenyi István",
+      "C": "Deák Ferenc",
+      "D": "Eötvös József"
+    },
+    "correct": "B",
+    "difficulty": "kozepes"
+  },
+  {
+    "question": "Melyik a világ legmagasabb épülete (2026-ban)?",
+    "answers": {
+      "A": "Petronas-ikertorony",
+      "B": "Burj Khalifa",
+      "C": "Shanghai Tower",
+      "D": "Merdeka 118"
+    },
+    "correct": "B",
+    "difficulty": "kozepes"
+  },
+  {
+    "question": "Milyen ásvány a gyémánt?",
+    "answers": {
+      "A": "Oxid",
+      "B": "Szén",
+      "C": "Szilikát",
+      "D": "Szulfid"
+    },
+    "correct": "B",
+    "difficulty": "kozepes"
+  },
+  {
+    "question": "Melyik országban van a Machu Picchu?",
+    "answers": {
+      "A": "Mexikó",
+      "B": "Peru",
+      "C": "Chile",
+      "D": "Argentína"
+    },
+    "correct": "B",
+    "difficulty": "kozepes"
+  },
+  {
+    "question": "Ki találta fel a nyomtatást Közép-Európában?",
+    "answers": {
+      "A": "Gensfleisch",
+      "B": "Gutenberg",
+      "C": "Guttenberg",
+      "D": "Gutenberger"
+    },
+    "correct": "B",
+    "difficulty": "kozepes"
+  },
+  {
+    "question": "Melyik vegyület a metán?",
+    "answers": {
+      "A": "CH3OH",
+      "B": "CH4",
+      "C": "C2H6",
+      "D": "C3H8"
+    },
+    "correct": "B",
+    "difficulty": "kozepes"
+  },
+  {
+    "question": "Hány évesen lehetett elnök az USA-ban (alkotmányos alsó határ)?",
+    "answers": {
+      "A": "30",
+      "B": "35",
+      "C": "40",
+      "D": "45"
+    },
+    "correct": "B",
+    "difficulty": "kozepes"
+  },
+  {
+    "question": "Ki volt a Szent Római Birodalom első császára?",
+    "answers": {
+      "A": "I. Ottó",
+      "B": "Nagy Károly",
+      "C": "II. Frigyes",
+      "D": "III. Henrik"
+    },
+    "correct": "B",
+    "difficulty": "kozepes"
+  },
+  {
+    "question": "Melyik a legnagyobb sivatag a Földön (nem a hideg)?",
+    "answers": {
+      "A": "Szahara",
+      "B": "Arábiai",
+      "C": "Góbi",
+      "D": "Kalahári"
+    },
+    "correct": "A",
+    "difficulty": "kozepes"
+  },
+  {
+    "question": "Melyik anyagból készül az üveg?",
+    "answers": {
+      "A": "Agyag",
+      "B": "Homok",
+      "C": "Mészkő",
+      "D": "Fa"
+    },
+    "correct": "B",
+    "difficulty": "kozepes"
+  },
+  {
+    "question": "Ki volt az első ember a Holdon?",
+    "answers": {
+      "A": "Buzz Aldrin",
+      "B": "Neil Armstrong",
+      "C": "Jurij Gagarin",
+      "D": "John Glenn"
+    },
+    "correct": "B",
+    "difficulty": "kozepes"
+  },
+  {
+    "question": "Melyik állam nem tagja az ENSZ Biztonsági Tanácsának?",
+    "answers": {
+      "A": "Kína",
+      "B": "Oroszország",
+      "C": "Japán",
+      "D": "Franciaország"
+    },
+    "correct": "C",
+    "difficulty": "kozepes"
+  },
+  {
+    "question": "Milyen színű a króm(III)-oxid?",
+    "answers": {
+      "A": "Piros",
+      "B": "Zöld",
+      "C": "Kék",
+      "D": "Fekete"
+    },
+    "correct": "B",
+    "difficulty": "kozepes"
+  },
+  {
+    "question": "Melyik a legnagyobb tó Magyarországon?",
+    "answers": {
+      "A": "Velencei-tó",
+      "B": "Balaton",
+      "C": "Fertő-tó",
+      "D": "Tisza-tó"
+    },
+    "correct": "B",
+    "difficulty": "kozepes"
+  },
+  {
+    "question": "Ki írta a 'Bánk bán' című drámát?",
+    "answers": {
+      "A": "Vörösmarty Mihály",
+      "B": "Katona József",
+      "C": "Madách Imre",
+      "D": "Eötvös József"
+    },
+    "correct": "B",
+    "difficulty": "kozepes"
+  },
+  {
+    "question": "Melyik a leggyorsabb szélessávú technológia ma?",
+    "answers": {
+      "A": "ADSL",
+      "B": "Száloptika",
+      "C": "4G",
+      "D": "Műholdas"
+    },
+    "correct": "B",
+    "difficulty": "kozepes"
+  },
+  {
+    "question": "Hány méter mély a Mariana-árok?",
+    "answers": {
+      "A": "8000 m",
+      "B": "11000 m",
+      "C": "6000 m",
+      "D": "14000 m"
+    },
+    "correct": "B",
+    "difficulty": "kozepes"
+  },
+  {
+    "question": "Melyik évben nyerte el Magyarország az első olimpiai aranyat?",
+    "answers": {
+      "A": "1896",
+      "B": "1900",
+      "C": "1908",
+      "D": "1912"
+    },
+    "correct": "B",
+    "difficulty": "kozepes"
+  },
+  {
+    "question": "Melyik ásvány a legpuhább a Mohs-skálán?",
+    "answers": {
+      "A": "Kvarc",
+      "B": "Talkum",
+      "C": "Gipsz",
+      "D": "Kalcit"
+    },
+    "correct": "B",
+    "difficulty": "kozepes"
+  },
+  {
+    "question": "Melyik a legnagyobb kőolajkitermelő ország?",
+    "answers": {
+      "A": "Oroszország",
+      "B": "Szaúd-Arábia",
+      "C": "Egyesült Államok",
+      "D": "Kína"
+    },
+    "correct": "C",
+    "difficulty": "kozepes"
+  },
+  {
+    "question": "Ki volt Magyarország első köztársasági elnöke 1989 után?",
+    "answers": {
+      "A": "Göncz Árpád",
+      "B": "Szűrös Mátyás (ügyvezető)",
+      "C": "Mádl Ferenc",
+      "D": "Sólyom László"
+    },
+    "correct": "B",
+    "difficulty": "kozepes"
+  },
+  {
+    "question": "Melyik a legnagyobb vízesés a világon (magasság alapján)?",
+    "answers": {
+      "A": "Niagara",
+      "B": "Angel-vízesés",
+      "C": "Viktória",
+      "D": "Iguazú"
+    },
+    "correct": "B",
+    "difficulty": "kozepes"
+  },
+  {
+    "question": "Milyen színű a klorofill?",
+    "answers": {
+      "A": "Piros",
+      "B": "Kék",
+      "C": "Zöld",
+      "D": "Sárga"
+    },
+    "correct": "C",
+    "difficulty": "kozepes"
+  },
+  {
+    "question": "Melyik országban van a Vörös tér?",
+    "answers": {
+      "A": "Kína",
+      "B": "Oroszország",
+      "C": "Ukrajna",
+      "D": "Lengyelország"
+    },
+    "correct": "B",
+    "difficulty": "kozepes"
+  },
+  {
+    "question": "Ki találta fel a villanykörtét?",
+    "answers": {
+      "A": "Nikola Tesla",
+      "B": "Thomas Edison",
+      "C": "Alexander Graham Bell",
+      "D": "George Westinghouse"
+    },
+    "correct": "B",
+    "difficulty": "kozepes"
+  },
+  {
+    "question": "Melyik magyar király uralkodott a leghosszabb ideig?",
+    "answers": {
+      "A": "I. Mátyás",
+      "B": "I. Ferenc József (Magyarország királya)",
+      "C": "III. Béla",
+      "D": "II. András"
+    },
+    "correct": "B",
+    "difficulty": "nehez"
+  },
+  {
+    "question": "Milyen kémiai kötés található a gyémántban?",
+    "answers": {
+      "A": "Ionos",
+      "B": "Kovalens (szigma)",
+      "C": "Fémes",
+      "D": "Hidrogénkötés"
+    },
+    "correct": "B",
+    "difficulty": "nehez"
+  },
+  {
+    "question": "Melyik a legkisebb főemlős?",
+    "answers": {
+      "A": "Györgyike",
+      "B": "Törpe maki",
+      "C": "Csuklyásmajom",
+      "D": "Tamarin"
+    },
+    "correct": "B",
+    "difficulty": "nehez"
+  },
+  {
+    "question": "Melyik volt az első magyarországi egyetem?",
+    "answers": {
+      "A": "Budapesti Tudományegyetem",
+      "B": "Pécsi Egyetem (1367)",
+      "C": "Zágrábi",
+      "D": "Kolozsvári"
+    },
+    "correct": "B",
+    "difficulty": "nehez"
+  },
+  {
+    "question": "Milyen színű a kadmium-szulfid?",
+    "answers": {
+      "A": "Fehér",
+      "B": "Sárga",
+      "C": "Fekete",
+      "D": "Zöld"
+    },
+    "correct": "B",
+    "difficulty": "nehez"
+  },
+  {
+    "question": "Ki volt az első ember, aki elérte a Déli-sarkot?",
+    "answers": {
+      "A": "Shackleton",
+      "B": "Roald Amundsen",
+      "C": "Scott",
+      "D": "Nansen"
+    },
+    "correct": "B",
+    "difficulty": "nehez"
+  },
+  {
+    "question": "Melyik ásvány a legkeményebb a Mohs-skálán?",
+    "answers": {
+      "A": "Korund",
+      "B": "Gyémánt",
+      "C": "Topáz",
+      "D": "Kvarc"
+    },
+    "correct": "B",
+    "difficulty": "nehez"
+  },
+  {
+    "question": "Melyik évben volt a párizsi békekonferencia?",
+    "answers": {
+      "A": "1918",
+      "B": "1946",
+      "C": "1919",
+      "D": "1920"
+    },
+    "correct": "B",
+    "difficulty": "nehez"
+  },
+  {
+    "question": "Ki írta az 'Isteni színjátékot'?",
+    "answers": {
+      "A": "Petrarca",
+      "B": "Dante Alighieri",
+      "C": "Boccaccio",
+      "D": "Ariosto"
+    },
+    "correct": "B",
+    "difficulty": "nehez"
+  },
+  {
+    "question": "Melyik a legnagyobb korallzátony a világon?",
+    "answers": {
+      "A": "Belizei-korallzátony",
+      "B": "Nagy-korallzátony",
+      "C": "Maldív-szigetek",
+      "D": "Vörös-tengeri"
+    },
+    "correct": "B",
+    "difficulty": "nehez"
+  },
+  {
+    "question": "Milyen vegyület az ammónia?",
+    "answers": {
+      "A": "NH4",
+      "B": "NH3",
+      "C": "N2H4",
+      "D": "HNO3"
+    },
+    "correct": "B",
+    "difficulty": "nehez"
+  },
+  {
+    "question": "Melyik országban található a legtöbb tó?",
+    "answers": {
+      "A": "Finnország",
+      "B": "Kanada",
+      "C": "Oroszország",
+      "D": "Svédország"
+    },
+    "correct": "B",
+    "difficulty": "nehez"
+  },
+  {
+    "question": "Ki volt a Magyar Tudományos Akadémia első elnöke?",
+    "answers": {
+      "A": "Széchenyi István",
+      "B": "Teleki József",
+      "C": "Eötvös József",
+      "D": "Deák Ferenc"
+    },
+    "correct": "B",
+    "difficulty": "nehez"
+  },
+  {
+    "question": "Melyik a legmélyebb tó a világon?",
+    "answers": {
+      "A": "Tanganyika",
+      "B": "Bajkál",
+      "C": "Vostok",
+      "D": "Kaszpi-tenger"
+    },
+    "correct": "B",
+    "difficulty": "nehez"
+  },
+  {
+    "question": "Ki volt az Oszmán Birodalom leghíresebb szultánja?",
+    "answers": {
+      "A": "I. Szulejmán",
+      "B": "II. Mehmed",
+      "C": "I. Bajazid",
+      "D": "IV. Murád"
+    },
+    "correct": "B",
+    "difficulty": "nehez"
+  },
+  {
+    "question": "Milyen színű a réz-szulfát oldata?",
+    "answers": {
+      "A": "Zöld",
+      "B": "Kék",
+      "C": "Piros",
+      "D": "Sárga"
+    },
+    "correct": "B",
+    "difficulty": "nehez"
+  },
+  {
+    "question": "Melyik évben született Arany János?",
+    "answers": {
+      "A": "1815",
+      "B": "1817",
+      "C": "1819",
+      "D": "1823"
+    },
+    "correct": "B",
+    "difficulty": "nehez"
+  },
+  {
+    "question": "Melyik állat képes megváltoztatni a nemét?",
+    "answers": {
+      "A": "Cápa",
+      "B": "Papagájhal",
+      "C": "Krokodil",
+      "D": "Béka"
+    },
+    "correct": "B",
+    "difficulty": "nehez"
+  },
+  {
+    "question": "Mi a Planck-állandó értéke?",
+    "answers": {
+      "A": "6,63 × 10⁻³²",
+      "B": "6,63 × 10⁻³⁴",
+      "C": "6,63 × 10⁻³⁶",
+      "D": "6,63 × 10⁻³⁰"
+    },
+    "correct": "B",
+    "difficulty": "nehez"
+  },
+  {
+    "question": "Ki volt az első magyar űrhajós?",
+    "answers": {
+      "A": "Magyari Béla",
+      "B": "Farkas Bertalan",
+      "C": "Szilárd Leó",
+      "D": "Teller Ede"
+    },
+    "correct": "B",
+    "difficulty": "nehez"
+  },
+  {
+    "question": "Milyen ásvány a kvarc?",
+    "answers": {
+      "A": "Szilikát",
+      "B": "Oxid",
+      "C": "Karbonát",
+      "D": "Szulfát"
+    },
+    "correct": "B",
+    "difficulty": "nehez"
+  },
+  {
+    "question": "Melyik országban van a legtöbb aktív vulkán?",
+    "answers": {
+      "A": "Japán",
+      "B": "Indonézia",
+      "C": "Izland",
+      "D": "Olaszország"
+    },
+    "correct": "B",
+    "difficulty": "nehez"
+  },
+  {
+    "question": "Ki volt a Gettysburgi beszéd mondója?",
+    "answers": {
+      "A": "George Washington",
+      "B": "Abraham Lincoln",
+      "C": "Thomas Jefferson",
+      "D": "Franklin D. Roosevelt"
+    },
+    "correct": "B",
+    "difficulty": "nehez"
+  },
+  {
+    "question": "Melyik kémiai elem a radioaktív?",
+    "answers": {
+      "A": "Arany",
+      "B": "Urán",
+      "C": "Ezüst",
+      "D": "Réz"
+    },
+    "correct": "B",
+    "difficulty": "nehez"
+  },
+  {
+    "question": "Melyik magyar zeneszerző írta a 'Háry János' című művet?",
+    "answers": {
+      "A": "Bartók Béla",
+      "B": "Kodály Zoltán",
+      "C": "Liszt Ferenc",
+      "D": "Erkel Ferenc"
+    },
+    "correct": "B",
+    "difficulty": "nehez"
+  },
+  {
+    "question": "Melyik a legnagyobb szubatomi részecske?",
+    "answers": {
+      "A": "Elektron",
+      "B": "Proton",
+      "C": "Neutron",
+      "D": "Pozitron"
+    },
+    "correct": "B",
+    "difficulty": "nehez"
+  },
+  {
+    "question": "Melyik a legkisebb madár?",
+    "answers": {
+      "A": "Kolibri",
+      "B": "Méhkolibri",
+      "C": "Kanári",
+      "D": "Pinty"
+    },
+    "correct": "B",
+    "difficulty": "nehez"
+  },
+  {
+    "question": "Ki volt a magyar szocialista munkáspárt utolsó főtitkára?",
+    "answers": {
+      "A": "Kádár János",
+      "B": "Grósz Károly",
+      "C": "Németh Miklós",
+      "D": "Lázár György"
+    },
+    "correct": "B",
+    "difficulty": "nehez"
+  },
+  {
+    "question": "Milyen színű az ózongáz?",
+    "answers": {
+      "A": "Színtelen",
+      "B": "Halványkék",
+      "C": "Sárgászöld",
+      "D": "Barna"
+    },
+    "correct": "B",
+    "difficulty": "nehez"
+  },
+  {
+    "question": "Melyik évben bomlott fel a Szovjetunió?",
+    "answers": {
+      "A": "1990",
+      "B": "1991",
+      "C": "1992",
+      "D": "1989"
+    },
+    "correct": "B",
+    "difficulty": "nehez"
+  }
+]

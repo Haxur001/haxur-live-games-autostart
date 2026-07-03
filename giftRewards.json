@@ -1,0 +1,5 @@
+{
+  "Rose": { "points": 1, "xp": 10, "damageMultiplierSeconds": 20, "multiplier": 2, "message": "2X sebzés 20 másodpercig" },
+  "TikTok": { "points": 3, "xp": 25, "healBlockSeconds": 20, "message": "Boss gyógyulás blokkolva 20 másodpercig" },
+  "Galaxy": { "points": 20, "xp": 150, "damage": 500, "damageMultiplierSeconds": 30, "multiplier": 3, "message": "3X sebzés és Boss -500 HP" }
+}

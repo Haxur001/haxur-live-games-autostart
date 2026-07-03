@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  background: transparent;
+  overflow: hidden;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #ffffff;
+}
+
+#app {
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+  background: transparent;
+}
+
+button {
+  font-family: Arial, Helvetica, sans-serif;
+}

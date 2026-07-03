@@ -1,0 +1,56 @@
+#centerGameBox {
+    position: absolute;
+    left: 50%;
+    top: 320px;
+    transform: translateX(-50%);
+    width: 460px;
+    min-height: 170px;
+    padding: 22px;
+    text-align: center;
+    border-radius: 26px;
+    background: rgba(5, 8, 18, 0.88);
+    border: 2px solid rgba(255, 255, 255, 0.35);
+    box-shadow: 0 0 28px rgba(255, 255, 255, 0.25);
+}
+
+#mainGameTitle {
+    font-size: 34px;
+    font-weight: 900;
+    text-shadow: 0 0 16px cyan;
+}
+
+#mainGameText {
+    margin-top: 14px;
+    font-size: 22px;
+    font-weight: 900;
+    color: #00ffff;
+}
+
+#testPanel {
+    position: absolute;
+    left: 50%;
+    bottom: 95px;
+    transform: translateX(-50%);
+    display: flex;
+    gap: 10px;
+    pointer-events: auto;
+    padding: 10px;
+    border-radius: 16px;
+    background: rgba(0, 0, 0, 0.72);
+}
+
+#testPanel button {
+    border: 0;
+    border-radius: 12px;
+    padding: 10px 14px;
+    font-size: 14px;
+    font-weight: 900;
+    color: white;
+    background: #222;
+    cursor: pointer;
+}
+
+#testPanel button:hover {
+    transform: scale(1.05);
+    filter: brightness(1.4);
+}

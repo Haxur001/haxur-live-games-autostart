@@ -1,0 +1,4 @@
+{
+  "Galaxy": { "hp": 4500, "durationSeconds": 30, "skill": "GALAXY STORM", "message": "Galaxy Viewer Boss megérkezett" },
+  "Rose": { "hp": 1500, "durationSeconds": 20, "skill": "ROSE SHIELD", "message": "Rose Viewer Boss megérkezett" }
+}

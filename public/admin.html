@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>HAXUR ADMIN</title>
+  <link rel="stylesheet" href="css/admin.css">
+</head>
+<body>
+  <h1>HAXUR LIVE GAMES ADMIN</h1>
+  <div class="grid">
+    <div class="box">
+      <h2>🎮 Game Control</h2>
+      <button onclick="post('/next-question')">KÖVETKEZŐ KÉRDÉS</button>
+      <button onclick="post('/reload-questions')" class="purple">KÉRDÉSEK ÚJRATÖLTÉSE</button>
+      <button onclick="post('/reload-gifts')" class="purple">GIFT BEÁLLÍTÁSOK ÚJRATÖLTÉSE</button>
+      <button onclick="post('/stop')" class="danger">VÁLASZ LEZÁRÁSA</button>
+    </div>
+
+    <div class="box">
+      <h2>👑 Host Power</h2>
+      <button onclick="hostPower('double')" class="gold">DUPLA SEBZÉS BE/KI</button>
+      <button onclick="hostPower('rage')" class="orange">HOST RAGE BE/KI</button>
+      <button onclick="hostPower('damage')" class="green">HOST STRIKE -250 HP</button>
+      <button onclick="hostPower('heal')" class="danger">BOSS HEAL +250 HP</button>
+      <button onclick="hostPower('winner')" class="purple">HAXUR POWER SHOW</button>
+      <button onclick="hostPower('playerboss')" class="purple">TOP JÁTÉKOS BOSS</button>
+    </div>
+
+    <div class="box">
+      <h2>🎁 Gift teszt</h2>
+      <input id="giftName" value="Galaxy" placeholder="Gift neve">
+      <input id="giftValue" value="10" placeholder="Gift érték">
+      <button onclick="testGift()" class="green">TESZT GIFT</button>
+      <button onclick="testViewerBoss()" class="gold">TESZT VIEWER BOSS</button>
+      <button onclick="post('/stop-viewer-boss')" class="danger">VIEWER BOSS TÚLÉLÉS</button>
+    </div>
+
+    <div class="box">
+      <h2>🧪 Tesztek</h2>
+      <button onclick="testAnswer('A')">Teszt A</button>
+      <button onclick="testAnswer('B')">Teszt B</button>
+      <button onclick="testAnswer('C')">Teszt C</button>
+      <button onclick="testAnswer('D')">Teszt D</button>
+      <button onclick="post('/test-player-boss')" class="orange">TESZT PLAYER BOSS</button>
+      <button onclick="post('/test-skill')" class="purple">TESZT BOSS SKILL</button>
+      <button onclick="post('/open-loot')" class="gold">LOOT CHEST NYITÁSA</button>
+      <button onclick="post('/test-loot')" class="green">TESZT LOOT CLAIM</button>
+    </div>
+
+    <div class="box">
+      <h2>✍️ Kézi kérdés</h2>
+      <input id="question" placeholder="Kérdés">
+      <input id="a" placeholder="A válasz">
+      <input id="b" placeholder="B válasz">
+      <input id="c" placeholder="C válasz">
+      <input id="d" placeholder="D válasz">
+      <select id="correct">
+        <option value="A">A a helyes</option>
+        <option value="B">B a helyes</option>
+        <option value="C">C a helyes</option>
+        <option value="D">D a helyes</option>
+      </select>
+      <input id="damage" value="50" placeholder="Sebzés">
+      <input id="wrongHeal" value="25" placeholder="Rossz válasz heal">
+      <button onclick="sendQuestion()">KÉZI KÉRDÉS INDÍTÁSA</button>
+    </div>
+
+    <div class="box">
+      <h2>⚠️ Rendszer</h2>
+      <button onclick="post('/reset')" class="danger">TELJES RESET</button>
+    </div>
+  </div>
+  <script src="js/admin.js"></script>
+</body>
+</html>
